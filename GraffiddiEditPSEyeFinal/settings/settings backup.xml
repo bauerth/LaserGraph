@@ -1,0 +1,22 @@
+ <?xml version="1.0"?>
+ 
+<settings>
+   
+	<tag id="0" name="camera">9</tag>
+
+	<tag id="1" name="srcx1">405.82422</tag>
+ 	
+	<tag id="2" name="srcx2">535.72327</tag>
+ 	
+	<tag id="3" name="srcx3">538.3917</tag>
+ 	 
+	<tag id="4" name="srcx4">410.90906</tag>
+  	
+	<tag id="5" name="srcy1">41.678894</tag>
+
+ 
+	<tag id="6" name="srcy2">38.785213</tag>
+	<tag id="7" name="srcy3">98.8074</tag>
+
+	<tag id="8" name="srcy4">101.86896</tag>
+</settings>
